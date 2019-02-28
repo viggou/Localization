@@ -14,10 +14,10 @@
 	"ACTIVATOR" = "Activator";
 	"CURRENTLY_ASSIGNED_TO" = "Lige nu tildelt:";
 	"UNASSIGNED" = "(ikke tildelt)";
-	"MORE_ACTIONS" = "More Actions";
-	"MORE_ACTIONS_DETAIL" = "Get more actions via Cydia";
-	"DONATE" = "Donate";
-	"DONATE_DETAIL" = "Contribute via PayPal";
+	"MORE_ACTIONS" = "Flere handlinger";
+	"MORE_ACTIONS_DETAIL" = "Få flere handlinger via Cydia";
+	"DONATE" = "Donér";
+	"DONATE_DETAIL" = "Donér via PayPal";
 	"N_ADDITIONAL_EVENTS" = "%i additional events";
 	"RESET_SETTINGS" = "Nulstil indstillinger";
 	"RESET_SETTINGS_DETAIL" = "Nulstil alle indstillinger til standard værdierne";
